@@ -4,9 +4,6 @@ An agent-based model (NetLogo 3D) of how households, government, an NGO, a bank 
 
 The model is a decision-support tool: policymakers can test how different splits of a fixed government budget (grants to households, NGO safety training, buying homes for people whose houses were destroyed) change how many homes become safe, and how quickly.
 
-![Model screenshot](docs/screenshot.png)
-
-**Final report:** [docs/Final_Report.pdf](docs/Final_Report.pdf)
 
 ---
 
